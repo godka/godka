@@ -5,8 +5,8 @@
 
 ### Hi all
 
-I am a Ph.D. in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.  
-I mainly focus on research in multimedia network streaming, including transmitting streams, overlay path construction, and edge-assisted content delivery.
+I received my Ph.D. from the Department of Computer Science and Technology at Tsinghua University, where I was advised by Prof. Lifeng Sun.
+My research focuses on multimedia network streaming, including stream transmission, overlay path construction, and edge-assisted content delivery.
 
 
 
